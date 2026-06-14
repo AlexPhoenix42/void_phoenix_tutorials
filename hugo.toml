@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
+baseURL = 'https://alexphoenix42.github.io/void_phoenix_tutorials/'
 title = 'My New Hugo Project'
+languageCode = 'en-us'
+theme = 'PaperMod'
+
+[params]
+  homeInfoParams = { Title = "Welcome", Content = "My Void Linux blog" }
+
